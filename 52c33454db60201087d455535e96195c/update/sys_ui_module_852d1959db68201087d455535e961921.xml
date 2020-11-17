@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IPAddressInfo">452d1959db68201087d455535e96191e</application>
+        <filter/>
+        <name>IPAddressInfos</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_iplookupk.ipaddressinfo_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 03:51:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>852d1959db68201087d455535e961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPAddressInfos</sys_name>
+        <sys_package display_value="IPLookup" source="x_snc_iplookupk">52c33454db60201087d455535e96195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">52c33454db60201087d455535e96195c</sys_scope>
+        <sys_update_name>sys_ui_module_852d1959db68201087d455535e961921</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 03:51:30</sys_updated_on>
+        <table>x_snc_iplookupk_ipaddressinfo</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
